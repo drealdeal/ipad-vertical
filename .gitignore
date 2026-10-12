@@ -1,0 +1,5 @@
+.DS_Store
+.claude/
+*.app/
+app/run.log
+node_modules/

@@ -6,7 +6,7 @@ Free, no license, about 350 lines of Swift.
 
 ## Demo
 
-Watch the intro video: [ipad-vertical-intro-en.mp4](assets/ipad-vertical-intro-en.mp4)
+https://github.com/user-attachments/assets/5888037d-4b46-45cc-a5e2-24e5a0afda43
 
 ## Use
 

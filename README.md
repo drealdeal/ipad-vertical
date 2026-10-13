@@ -4,6 +4,10 @@ A tiny open-source Mac menu bar app that turns an iPad into a **vertical (portra
 
 Free, no license, about 350 lines of Swift.
 
+## Demo
+
+Watch the intro video: [ipad-vertical-intro-en.mp4](assets/ipad-vertical-intro-en.mp4)
+
 ## Use
 
 Build it (see below), then open `iPad Vertical.app`. It lives only in the menu bar: click the iPad icon at the top of the screen.

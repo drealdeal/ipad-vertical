@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/79cc7887-cd7d-42dc-bb95-8ab96cd36d4b
+
 # iPad Vertical
 
 A tiny open-source Mac menu bar app that turns an iPad into a **vertical (portrait)** second screen over Sidecar - something macOS does not offer. One click switches between vertical and horizontal.
